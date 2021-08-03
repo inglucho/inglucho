@@ -1,4 +1,4 @@
-### *Hola, Luis Carlos*
+### *Hola, Luis*
 ---
 
 *Desarrollador de software con 10 años de experiencia*
