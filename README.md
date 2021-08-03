@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @inglucho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### *Hola, Luis Carlos*
+---
 
-<!---
-inglucho/inglucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Desarrollador de software con 10 años de experiencia*
+
+### Habilidades
+- Desarrollo Front-End
+- Desarrollo Back-End
+- Administración de Base de datos
+- Amazon AWS
+- Git
+- Java7, Java8 ...
+- Patrones de diseños
+- Microservicios
+- Html, Css, Javascript, AngularJS...
